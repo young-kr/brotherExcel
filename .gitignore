@@ -103,6 +103,6 @@ dist
 # TernJS port file
 .tern-port
 
-CSV
+CSV/*
 .DS_Store
 package-lock.json
